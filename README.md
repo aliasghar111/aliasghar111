@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Structues & Algorithm , OOP Paradigms**
 
-- 📫 How to reach me **zaryab.110786@gmail.com**
+- 📫 How to reach me **aliasghar9695@gmail.com**
 
 - ⚡ Fun fact **I like coffee**
 
